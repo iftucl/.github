@@ -11,3 +11,5 @@
 
 Welcome to the UCL Institute for Finance and Technology organisation page for the module on Big Data in Quantitative Finance.
 
+
+In this organisation, you will find all repositories created to deliver the lectures in Big Data in Quantitative Finance.
