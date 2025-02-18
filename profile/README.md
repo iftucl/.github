@@ -29,6 +29,7 @@ This section summarises and provides a reference to the main reasech and poc rep
 #### PYTHON PACKAGE
 
 - Beta version of [IFT-UCL Global Python Package](https://github.com/iftucl/ift_global).
+- Beta version of [IFT-GILTS Fixed Income Analytics Python Package](https://github.com/iftucl/fift_analytics).
 
 
 #### OTHER PoCs
